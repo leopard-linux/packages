@@ -1,0 +1,11 @@
+[package]
+name        = "linux-fs"
+description = "Linux Filesystem"
+version     = 0.1
+
+[scripts]
+install   = "./install.sh"
+
+[dependencies]
+
+[ignore]
